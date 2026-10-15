@@ -8,3 +8,11 @@ Prank Bomb
 ```lua
 loadstring(game:HttpGet("https://github.com/uhfork/scripts/raw/hi/bomb.lua"))()
 ```
+
+Speed Glitch
+```lua
+intensity = 55
+sidewyas = false
+
+loadstring(game:HttpGet("https://github.com/uhfork/scripts/raw/hi/sg.lua"))()
+```

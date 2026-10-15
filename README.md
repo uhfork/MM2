@@ -6,5 +6,5 @@ this repo will got script that most mm2/mmv creator uses!! feel free to use!
 ## Scripts
 Prank Bomb
 ```lua
-loadstring(game:HttpGet("https://github.com/uhfork/MM2/raw/main/bomb.lua"))()
+loadstring(game:HttpGet("https://github.com/uhfork/scripts/raw/hi/bomb.lua"))()
 ```
